@@ -10,12 +10,40 @@ This guide covers what the test looks like, where to book it officially, recomme
 
 ## Quick links
 
-| Purpose | Link |
-|---|---|
-| Official DET site / Registration | https://englishtest.duolingo.com/register |
-| Official free practice (quick practice) | https://englishtest.duolingo.com/quick |
-| Official Test Taker Guide (PDF) | https://englishtest-static.duolingo.com/media/resources/test-taker-guide/DET%20Official%20Guide%202024%20English.pdf |
-| Test readiness & system requirements | https://englishtest.duolingo.com/readiness |
+<table style="width:100%; border-collapse:collapse; text-align:center; font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial;">
+  <thead>
+    <tr>
+      <th style="border:1px solid #ddd; padding:12px; font-size:1rem;">Purpose</th>
+      <th style="border:1px solid #ddd; padding:12px; font-size:1rem;">Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border:1px solid #ddd; padding:12px; vertical-align:middle;">Official DET site / Registration</td>
+      <td style="border:1px solid #ddd; padding:12px; vertical-align:middle;">
+        <a href="https://englishtest.duolingo.com/register" target="_blank" rel="noopener noreferrer" title="Official DET registration">link</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #ddd; padding:12px; vertical-align:middle;">Official free practice (quick practice)</td>
+      <td style="border:1px solid #ddd; padding:12px; vertical-align:middle;">
+        <a href="https://englishtest.duolingo.com/quick" target="_blank" rel="noopener noreferrer" title="Official quick practice">link</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #ddd; padding:12px; vertical-align:middle;">Official Test Taker Guide (PDF)</td>
+      <td style="border:1px solid #ddd; padding:12px; vertical-align:middle;">
+        <a href="https://englishtest-static.duolingo.com/media/resources/test-taker-guide/DET%20Official%20Guide%202024%20English.pdf" target="_blank" rel="noopener noreferrer" title="DET Official Guide (PDF)">link</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #ddd; padding:12px; vertical-align:middle;">Test readiness &amp; system requirements</td>
+      <td style="border:1px solid #ddd; padding:12px; vertical-align:middle;">
+        <a href="https://englishtest.duolingo.com/readiness" target="_blank" rel="noopener noreferrer" title="Test readiness & system requirements">link</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
