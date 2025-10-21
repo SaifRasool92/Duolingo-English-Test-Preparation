@@ -149,3 +149,10 @@ You’ve already taken a great step by collecting resources — keep practicing 
 - generate a printable 2-week daily checklist,
 - make a sample timed mock test (with answers & rubric),
 - or create short speaking prompts with scoring rubrics.
+
+
+# License
+
+This project is licensed under the MIT License — see the accompanying `LICENSE` file for full terms.
+
+© 2025 Saif Ur Rasool · SPDX-License-Identifier: MIT
