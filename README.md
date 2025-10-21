@@ -1,5 +1,8 @@
 # Duolingo English Test (DET) — Study Hub
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]()
+
+
 A compact, practical repository of resources and strategies to help you prepare for the **Duolingo English Test (DET)**.  
 This guide covers what the test looks like, where to book it officially, recommended prep resources, a simple study plan, mock test guidance, and test-day tips.
 
