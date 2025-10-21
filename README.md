@@ -1,6 +1,8 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/SaifRasool92/Duolingo-English-Test-Preparation/blob/main/LICENSE)
+
 # Duolingo English Test (DET) — Study Hub
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/SaifRasool92/Duolingo-English-Test-Preparation/blob/main/LICENSE)
+
 
 
 A compact, practical repository of resources and strategies to help you prepare for the **Duolingo English Test (DET)**.  
