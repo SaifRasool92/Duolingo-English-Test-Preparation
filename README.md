@@ -1,8 +1,8 @@
 
+<img width="2157" height="245" alt="Duolingo English Test Preparation" src="https://github.com/user-attachments/assets/eb036d32-f69c-421e-baf3-45bab8094e77" />
 
-# Duolingo English Test (DET) — Study Hub
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/SaifRasool92/Duolingo-English-Test-Preparation/blob/main/LICENSE)
+<!--[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/SaifRasool92/Duolingo-English-Test-Preparation/blob/main/LICENSE)-->
 
 
 A compact, practical repository of resources and strategies to help you prepare for the **Duolingo English Test (DET)**.  
