@@ -185,4 +185,12 @@ You’ve already taken a great step by collecting resources — keep practicing 
 
 This project is licensed under the MIT License — see the accompanying `LICENSE` file for full terms.
 
-© 2025 Saif Ur Rasool · SPDX-License-Identifier: MIT
+
+
+<div align='center'>
+  <img src="https://d35aaqx5ub95lt.cloudfront.net/images/pathCharacters/dark/a182083228ca9ae7caa6e04c67ba3319.svg" height="150">
+  <img src="https://d35aaqx5ub95lt.cloudfront.net/images/pathCharacters/dark/7a6f4ccab9ff546c3f3780d33a0641ff.svg" height="150">
+  <img src="https://d35aaqx5ub95lt.cloudfront.net/images/pathCharacters/dark/297a3a905c8cabf3728dc123e9eed2ae.svg" height="150">
+  <img src="https://d35aaqx5ub95lt.cloudfront.net/images/pathCharacters/dark/c43181b8aff6b93a60c67aa9683352bd.svg" height="150">
+  <img src="https://d35aaqx5ub95lt.cloudfront.net/images/pathCharacters/dark/4830ce54059fde22c292153f044eea5b.svg" height="150">
+</div>
