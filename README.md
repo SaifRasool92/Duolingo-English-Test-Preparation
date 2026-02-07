@@ -223,22 +223,22 @@ This section is a work in progress, just like my attempt to follow a step-by-ste
 
 ### Beginner Roadmap
 The Beginner Roadmap is designed for developers who are just starting their English language learning journey. This roadmap focuses on foundational language skills and includes:
-- [ ] Basic vocabulary lists related to programming concepts and common tech terms.
-- [ ] Grammar basics, including verb tenses, sentence structure, and basic syntax.
-- [ ] Introduction to listening and speaking skills, with simple exercises to practice pronunciation and basic conversation.
+- [x] Basic vocabulary lists related to programming concepts and common tech terms.
+- [x] Grammar basics, including verb tenses, sentence structure, and basic syntax.
+- [x] Introduction to listening and speaking skills, with simple exercises to practice pronunciation and basic conversation.
 
 ### Intermediate Roadmap
 The Intermediate Roadmap is ideal for developers who have a basic understanding of English but want to deepen their language skills. This roadmap includes:
-- [ ] Expanded vocabulary lists covering a wider range of technical and programming-related terms.
-- [ ] Intermediate grammar topics, such as complex sentence structures, verb forms, and idiomatic expressions.
-- [ ] Listening comprehension activities, including short audio clips and dialogues, to improve understanding of spoken English.
-- [ ] Speaking practice exercises focused on expressing ideas clearly and confidently in technical contexts.
+- [x] Expanded vocabulary lists covering a wider range of technical and programming-related terms.
+- [x] Intermediate grammar topics, such as complex sentence structures, verb forms, and idiomatic expressions.
+- [x] Listening comprehension activities, including short audio clips and dialogues, to improve understanding of spoken English.
+- [x] Speaking practice exercises focused on expressing ideas clearly and confidently in technical contexts.
 
 ### Advance Roadmap
 The Advanced Roadmap is tailored for developers who are proficient in English but seek to refine their language skills for professional and technical communication. This roadmap features:
-- [ ] Advanced vocabulary lists with specialized terminology for specific tech fields and industries.
-- [ ] In-depth grammar study, including advanced grammar points, nuanced usage, and style guides for technical writing.
-- [ ] Complex listening exercises, such as podcasts, presentations, and technical lectures, enhance comprehension and critical thinking skills.
+- [x] Advanced vocabulary lists with specialized terminology for specific tech fields and industries.
+- [x] In-depth grammar study, including advanced grammar points, nuanced usage, and style guides for technical writing.
+- [x] Complex listening exercises, such as podcasts, presentations, and technical lectures, enhance comprehension and critical thinking skills.
 Advanced speaking activities, such as debates, presentations, and role-playing scenarios, to practice communicating complex ideas effectively in English.
 
 <!-- START THIRD SECTION -RESOURCES IN PROGRESS-->
@@ -427,7 +427,7 @@ This project is licensed under the MIT License — see the accompanying `LICENSE
 
 
 <div align='center'>
-  <img src="https://d35aaqx5ub95lt.cloudfront.net/images/pathCharacters/dark/a182083228ca9ae7caa6e04c67ba3319.svg" height="150">
+  <img src="https://d2pur3iezf4d1j.cloudfront.net/images/8c2568cbb576edd70352187b2156af64" height="150">
   <img src="https://d35aaqx5ub95lt.cloudfront.net/images/pathCharacters/dark/7a6f4ccab9ff546c3f3780d33a0641ff.svg" height="150">
   <img src="https://d35aaqx5ub95lt.cloudfront.net/images/pathCharacters/dark/297a3a905c8cabf3728dc123e9eed2ae.svg" height="150">
   <img src="https://d35aaqx5ub95lt.cloudfront.net/images/pathCharacters/dark/c43181b8aff6b93a60c67aa9683352bd.svg" height="150">
