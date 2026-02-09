@@ -428,7 +428,7 @@ This project is licensed under the MIT License — see the accompanying `LICENSE
 
 <div align='center'>
   <img src="https://d2pur3iezf4d1j.cloudfront.net/images/8c2568cbb576edd70352187b2156af64" height="150">
-  <img src="https://d35aaqx5ub95lt.cloudfront.net/images/pathCharacters/dark/7a6f4ccab9ff546c3f3780d33a0641ff.svg" height="150">
+  <img src="https://d2pur3iezf4d1j.cloudfront.net/images/f559b90b5d2b5a23d416db2c6a95055f" height="150">
   <img src="https://d35aaqx5ub95lt.cloudfront.net/images/pathCharacters/dark/297a3a905c8cabf3728dc123e9eed2ae.svg" height="150">
   <img src="https://d35aaqx5ub95lt.cloudfront.net/images/pathCharacters/dark/c43181b8aff6b93a60c67aa9683352bd.svg" height="150">
   <img src="https://d35aaqx5ub95lt.cloudfront.net/images/pathCharacters/dark/4830ce54059fde22c292153f044eea5b.svg" height="150">
