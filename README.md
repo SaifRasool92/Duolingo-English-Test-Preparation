@@ -8,7 +8,7 @@
   <img src="https://d2pur3iezf4d1j.cloudfront.net/images/f559b90b5d2b5a23d416db2c6a95055f" height="125">
   <img src="https://d35aaqx5ub95lt.cloudfront.net/images/legendary/4f48983eb191a47f0b1c4324135dd446.svg" height="200">
   <img src="https://d35aaqx5ub95lt.cloudfront.net/images/pathCharacters/dark/c43181b8aff6b93a60c67aa9683352bd.svg" height="150">
-  <img src="https://d35aaqx5ub95lt.cloudfront.net/images/pathCharacters/dark/4830ce54059fde22c292153f044eea5b.svg" height="150">
+  <img src="https://media.licdn.com/dms/image/v2/D562CAQEZF8fCMmariQ/comment-image-shrink_8192_160/B56ZxxNqgcHQAM-/0/1771425933606?e=1772424000&v=beta&t=dd0YPXdT37hEyZQZmAwTl_D4rWqb_9pQPdrnBAuzwyA" height="150">
 </div>
 
 
